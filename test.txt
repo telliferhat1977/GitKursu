@@ -1,1 +1,2 @@
 merhaba
+ilk defa git kullanmayı öğreniyorum
