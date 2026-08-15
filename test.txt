@@ -1,2 +1,3 @@
 merhaba
 ilk defa git kullanmayı öğreniyorum
+üçüncü satır yazıldı
